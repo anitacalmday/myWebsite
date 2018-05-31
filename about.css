@@ -1,0 +1,18 @@
+p {
+	text-align: justify; 
+	text-indent: 12px; 
+	text-justify: inter-word;
+	padding-left: 180px; 
+
+}
+
+img {
+    width: 100%;
+    height: auto;
+    padding-left: 70px; 
+}
+
+
+body {
+	overflow: scroll; 
+}
